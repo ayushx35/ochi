@@ -3,7 +3,7 @@ import React from 'react'
 function Navbar() {
   return (
     <div className='fixed z-[999] w-full px-20 py-8 font-neue-montreal flex justify-between items-center' style={{ fontFamily: "'Neue Montreal', sans-serif" }}>
-      <div className='h-1 w-[10vw]'><img href='#'src="/Logo.png" alt="" />
+      <div className='h-1 w-[10vw]'><img href='#'src="/Loo.png" alt="" />
       </div>
       <div className='links flex gap-10 '>
         {["Services","Our Work","About Us","Insights"].map((item,index)=>(
