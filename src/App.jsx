@@ -2,7 +2,7 @@ import React from 'react'
 import Navbar from './components/navbar'
 import CaseStudies from './components/CaseStudies'
 import LandingPage from './components/LandingPage'
-import Marquee from './components/marquee'
+import Marquee from './components/Marquee'
 import Services from './components/Services'
 import About from './components/About'
 
